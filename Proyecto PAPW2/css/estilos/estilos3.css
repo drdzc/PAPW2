@@ -1,0 +1,83 @@
+
+
+body{
+  min-height: 100%;
+  background-color: white;
+
+}
+
+nav{
+  background-color: #128fd2;
+  margin-top:  0px;
+}
+
+.fondo{
+  background-image: url('../../Imagenes/fondo2.jpg');
+  background-repeat: no-repeat;
+}
+
+h1, h3{
+  color : #e2e9e7;
+}
+
+img{
+
+}
+
+.btn-accion{
+  background-color: Transparent;
+  border-color: #e2e9e7;
+  color: #e2e9e7;
+  
+}
+
+.pull-right{
+  margin-right: 5%;
+}
+
+.img-funcion{
+  height: 100px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+
+.contenido{
+  padding-top: 80px;
+}
+
+.fondo{
+  height:800px;
+}
+
+.imagenlanding{
+  max-height: 630px;
+ 
+}
+
+.main{
+  vertical-align: middle;
+}
+
+.btn-unirse{
+
+  margin: auto;
+}
+
+.lel{
+
+   }
+.btn-accion:hover{
+  background-color:#3093e5;
+}
+
+.rowfunciones{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.funcionalidad{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+}

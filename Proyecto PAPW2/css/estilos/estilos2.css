@@ -1,0 +1,45 @@
+body, html{
+  background-color: red;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+
+header{
+  background-color: blue;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-fluid{
+  margin: 0px;
+  padding: 0px;
+}
+
+.row{
+
+  vertical-align: middle;
+}
+
+.panel1{
+  background-color: green;
+}
+
+.registro{
+  background-color: black;
+}
+
+.formulario{
+  background-color: rgb(16, 92, 69);
+  height: 80%;
+  width: 90%;
+  border-radius: 10px;
+  margin: auto;
+
+}
+
+form{
+   width: 80%;
+   margin: auto;
+   padding-top: 5%;
+}

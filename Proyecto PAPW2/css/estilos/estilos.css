@@ -1,0 +1,61 @@
+.navbar-fixed-top{
+	background: #16c6de;
+	color: #aa2121;
+}
+
+.nombrePagina{
+	/*agregar fuente*/
+}
+
+.login{
+	padding-top: 1%;
+
+}
+
+img {
+
+}
+
+p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.formulario{
+	background-color: rgb(71, 202, 226);
+	width: 80%;
+	margin: auto;
+}
+
+ .container-fluid{
+	min-height: 100%;
+	vertical-align: middle;
+}
+.row{
+	height: 100%;
+}
+
+.form-control{
+	width: 80%;
+	margin: auto;
+}
+
+.form-check-input{
+	margin: auto;
+}
+label{
+	padding: 5px;
+}
+
+html, body{
+	height: 100%;
+}
+header{
+	vertical-align: middle;
+}
+
+.fila{
+	display: inline-block;
+	vertical-align: middle;
+	float: none;
+}
